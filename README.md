@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/hunter0x63/hunter0x63/blob/main/Assets/banner.png" alt="Cybersecurity Banner" />
+  <img src="https://github.com/hunter0x63/hunter0x63/blob/main/banner.png" alt="Cybersecurity Banner" />
 </p>
 
 <h1 align="center">🛡️ Robiul Islam Akash</h1>
