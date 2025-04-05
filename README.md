@@ -12,7 +12,7 @@
 
 🎯 I'm a passionate cybersecurity practitioner focused on:
 
-- 🔍 Offensive Security, Web Application Penetration Testing, and Threat Hunting  
+- 🔍 Offensive Security, Web Application Penetration Testing, System Security, Forencis, Osint and Threat Hunting  
 - 🧠 Researching vulnerabilities, exploit development & AI + OSINT integrations  
 - 💻 Automating security tasks using Python & Bash  
 - 🛠️ Building tools for red teaming, OSINT, and vulnerability analysis  
@@ -24,7 +24,7 @@
 
 | Domain | Tools / Tech |
 |--------|--------------|
-| **Languages** | Python, Bash, JavaScript (Basic) |
+| **Languages** | Python, Bash, Powershell, Web coding (Html, CSS, JS) |
 | **Pentest Tools** | Nmap, Burp Suite, Nikto, Metasploit, Wireshark |
 | **OSINT** | theHarvester, SpiderFoot, Maltego, Custom Scripts |
 | **Platforms** | Kali Linux, Athena OS, Arch, Ubuntu |
